@@ -1,0 +1,22 @@
+{
+  "name": "jr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.e6e2fce282d06c96120727b1df01968e.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawelJarema/JR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawelJarema/JR/issues"
+  },
+  "homepage": "https://github.com/PawelJarema/JR#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
